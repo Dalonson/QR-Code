@@ -19,7 +19,7 @@
   background-color: white;
   padding: 10px 10px 20px 10px;
   border-radius: 15px;
-  box-shadow: lightcoral;
+  box-shadow: 0 5px 20px hsl(218, 44%, 22%);
 }
 
 .qr-code {
