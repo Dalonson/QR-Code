@@ -15,27 +15,31 @@
 }
 
 .qr-card {
-  width: 15em;
+  width: 45%;
   background-color: white;
   padding: 10px 10px 20px 10px;
   border-radius: 15px;
   box-shadow: 0 5px 20px hsl(218, 44%, 22%);
 }
 
+.qr-card:hover {
+  box-shadow: 0 5px 20px hsl(217, 6%, 43%);
+}
+
 .qr-code {
-  width: 15em;
+  width: 100%;
   border-radius: 15px;
 }
 
 h2 {
   text-align: center;
-  font-size: 20px;
+  font-size: 1.3em;
   margin-top: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 p {
   text-align: center;
   color: hsl(220, 15%, 55%);
-  font-size: 14px;
+  font-size: 0.9em;
 }
